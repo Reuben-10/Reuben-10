@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<a href="https://app.daily.dev/reubenagbor"><img src="https://api.daily.dev/devcards/v2/2I99WRuWwnVxZEZ0pBtEg.png?type=default&r=fjy" width="356" alt="Reuben Agbor's Dev Card"/></a>
 <!---
 Reuben-10/Reuben-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
