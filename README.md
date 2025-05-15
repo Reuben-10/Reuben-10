@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-Reuben%20Agbor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reuben-agbor)
 [![X Badge](https://img.shields.io/badge/-@reuben_agbor-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/reuben_agbor)
 
-I’m **Reuben Uke Agbor Gift**, a Software Engineering student at **AltSchool Africa** and the University of Calabar. I’m passionate about learning, building useful products, and growing through collaboration with other developers.
+I’m **Reuben Agbor** aka **Uke**, a Software Engineering student at **AltSchool Africa** and the University of Calabar. I’m passionate about learning, building useful products, and growing through collaboration with other developers.
 
 ---
 
